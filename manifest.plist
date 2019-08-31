@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/reference/hdf/master/hdf.ipa</string>
+					<string>https://fundotc.oss-cn-beijing.aliyuncs.com/910e20e3-23c4-482a-9048-a3febed78a64.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/reference/jihejingjia/master/icon57.png</string>
+					<string>https://raw.githubusercontent.com/reference/act/master/icon57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/reference/jihejingjia/master/icon512.png</string>
+					<string>https://raw.githubusercontent.com/reference/act/master/icon512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>集合竞价排行榜</string>
+				<string>ACT</string>
 			</dict>
 		</dict>
 	</array>
